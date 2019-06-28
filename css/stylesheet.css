@@ -30,25 +30,25 @@ h1 {
 	font-family: litania, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 48px;
+	font-size: 3rem;
 }
 
 .title{
-	font-size: 10em;
+	font-size: 10rem;
 	overflow: auto;
 	color: #fffd98;
 }
 
 h2{
-	font-size: 30px;
+	font-size: 2rem;
 }
 
 h3{
-	font-size: 18px;
+	font-size: 1.5rem;
 }
 
 p{
-	font-size: 16px;
+	font-size: 1rem;
 }
 
 a{
